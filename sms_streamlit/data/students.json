@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Aisha Khan",
+    "age": 17,
+    "grade": "11",
+    "email": "aisha.k@example.com",
+    "gpa": 3.6,
+    "notes": "Prefers sciences"
+  },
+  {
+    "id": 2,
+    "name": "Bilal Ahmed",
+    "age": 18,
+    "grade": "12",
+    "email": "bilal.a@example.com",
+    "gpa": 3.9,
+    "notes": "Excellent in math"
+  },
+  {
+    "id": 3,
+    "name": "Sara Ali",
+    "age": 16,
+    "grade": "10",
+    "email": "sara.ali@example.com",
+    "gpa": 3.2,
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "name": "Zayn",
+    "age": 17,
+    "grade": "11th",
+    "email": null,
+    "gpa": 0.0,
+    "notes": null
+  }
+]
